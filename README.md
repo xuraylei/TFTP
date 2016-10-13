@@ -11,9 +11,11 @@ sudo ./server <port num>
 Example:
 
 1. run TFTP server
+
 sudo ./server 69
 
-2. run TFTP client (mac) locally
+2. open a new shell to run TFTP client (mac) locally and retrieve file from the server
+
 tftp 127.0.0.1
 
 tftp> get test
