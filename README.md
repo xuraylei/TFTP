@@ -1,12 +1,16 @@
 #A TFTP server program
 
 *How to build:
+
 cd TFTP
 
 make
 
+
 *How to use:
+
 sudo ./server <port num>
+
 
 *Example:
 
